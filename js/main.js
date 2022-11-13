@@ -281,5 +281,5 @@ btn.onclick = ()=> {
       render();
     }, 10);
   })(document.getElementById("pinkboard"));
-  
+  document.querySelector(".audio").play();  
 }
